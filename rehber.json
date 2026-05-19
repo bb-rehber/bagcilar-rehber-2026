@@ -1,0 +1,3542 @@
+[
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MEHMET UYGUN",
+    "unvan": "MÜDÜR",
+    "dahili": "11-00"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "İBRAHİM ÇAĞRI MERT",
+    "unvan": "Yapı Denetim Şefi",
+    "dahili": "11-01"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "İBRAHİM OKTAR",
+    "unvan": "İmar Durum Şefi",
+    "dahili": "11-02"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "YALÇIN AK",
+    "unvan": "Yapı Ruhsat Şefi",
+    "dahili": "11-03"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "DURAN AKKAYA",
+    "unvan": "Numarataj Şefi",
+    "dahili": "11-04"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ALİ DALKILIÇ",
+    "unvan": "Yavuzselim-Fevziçakmak Mah.",
+    "dahili": "11-10"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ENSAR ÖZKAN",
+    "unvan": "Yıldıztepe-İnönü Mah.",
+    "dahili": "11-11"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "SERKAN GÜNDOĞDU",
+    "unvan": "Barbaros-Kazımkarabekir Mah.",
+    "dahili": "11-12"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MUHAMMED EMİN YÜKSEL",
+    "unvan": "Bağlar-Hürriyet Mah.",
+    "dahili": "11-13"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "İSMAİL KAV",
+    "unvan": "100. Yıl-Kemalpaşa Mah.",
+    "dahili": "11-14"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "BAYRAM BAYIR",
+    "unvan": "Sancaktepe-Çınar Mah.",
+    "dahili": "11-15"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MEHMET NAİL ASLAN",
+    "unvan": "Merkez-Yenigün Mah.",
+    "dahili": "11-16"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "KERİM YILMAZ",
+    "unvan": "Fatih-Demirkapı Mah.",
+    "dahili": "11-17"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "BİLAL KARKIN",
+    "unvan": "Yenimahalle-Kirazlı Mah.",
+    "dahili": "11-18"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ERDİ ÇOBAN",
+    "unvan": "Mahmutbey-Göztepe Mah.",
+    "dahili": "11-19"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ARİF EMRE ÖZDEMİR",
+    "unvan": "Güneşli-15 Temmuz Mah.",
+    "dahili": "11-20"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "POLAT ERMİŞ ",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-21"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "OĞUZHAN AYDOĞDU",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-22"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "BERSU BAŞARANOĞLU",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-23"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "KERİM MERT YILMAZ",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-24"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "FİRDEVS BAĞCI",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-25"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "KÜBRA ERDOĞAN",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-60"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MELİKE SARI",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-27"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "SAFTER VOLKAN AKYOL",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-28"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "SAMET BİLGİN",
+    "unvan": "",
+    "dahili": "11-29"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ELİF AKDAĞ",
+    "unvan": "Proje Ve Ruhsat",
+    "dahili": "11-30"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "HAKAN KUL",
+    "unvan": "",
+    "dahili": "11-31"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ALTINAY SOBACI",
+    "unvan": "",
+    "dahili": "11-32"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ERSOY ÖZTÜRK",
+    "unvan": "",
+    "dahili": "11-33"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MİRAÇ KALYONCU",
+    "unvan": "",
+    "dahili": "11-34"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MUSTAFA YILDIZ",
+    "unvan": "",
+    "dahili": "11-35"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MUAHMMED TUNCER",
+    "unvan": "",
+    "dahili": "11-36"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MUHAMMED YAŞAR",
+    "unvan": "",
+    "dahili": "11-37"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MUHARREM SELEK",
+    "unvan": "",
+    "dahili": "11-38"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "HASAN ÇAVUŞ",
+    "unvan": "",
+    "dahili": "11-39"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "CÜNEYT PİŞKİN",
+    "unvan": "",
+    "dahili": "11-40"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "AYLA FERAH BAŞTAN",
+    "unvan": "",
+    "dahili": "11-41"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ÖMER KOCAMAN",
+    "unvan": "",
+    "dahili": "11-42"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "BEYZA BAŞAR",
+    "unvan": "",
+    "dahili": "11-43"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MÜZEYYEN COŞKUN",
+    "unvan": "Yapı Ruhsat Düzenlenmesi",
+    "dahili": "11-44"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "EMEL EKMEN",
+    "unvan": "Yapı Ruhsat Düzenlenmesi",
+    "dahili": "11-45"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "FATMA ENGİN",
+    "unvan": "Yapı Ruhsat Düzenlenmesi",
+    "dahili": "11-46"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ŞÜKRİYE AKBAŞ",
+    "unvan": "Yapı Ruhsat Düzenlenmesi",
+    "dahili": "11-46"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "AYCAN ARAN",
+    "unvan": "",
+    "dahili": "11-47"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ÇİĞDEM GEÇ",
+    "unvan": "",
+    "dahili": "11-48"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MEHMET EMİR ATEŞ",
+    "unvan": "Mahkeme Yazışmaları",
+    "dahili": "11-49"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "İLKNUR ÖZER",
+    "unvan": "Numarataj ",
+    "dahili": "11-50"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "NURAY KILIÇ",
+    "unvan": "Numarataj",
+    "dahili": "11-51"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "HASAN VURAL",
+    "unvan": "Numarataj",
+    "dahili": "11-52"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "SAMET ALİ AĞBAŞ",
+    "unvan": "Numarataj",
+    "dahili": "11-52"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "UMUT ÖZEN",
+    "unvan": "Pergole",
+    "dahili": "11-53"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "MEHMET TAHİR GEZEN",
+    "unvan": "Şifa-İ İmar Durum Bilgisi",
+    "dahili": "11-54"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "CANAN SARI",
+    "unvan": "Cimer",
+    "dahili": "11-55"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "SEDA KULOĞLU",
+    "unvan": "Şifa-İ İmar Durum Bilgisi",
+    "dahili": "11-56"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "SİNAN ULUDAĞ",
+    "unvan": "Kalem",
+    "dahili": "11-57"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "SELDA MUTLU",
+    "unvan": "Kalem",
+    "dahili": "11-58"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "ALİ EKBER KOÇER",
+    "unvan": "Kalem",
+    "dahili": "11-59"
+  },
+  {
+    "birim": "İmar Ve Şehircilik Müdürlüğü",
+    "isim": "RIFAT KURT",
+    "unvan": "Kalem",
+    "dahili": "11-26"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "TALAT ÖZAY",
+    "unvan": "MÜDÜR",
+    "dahili": "12-00"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "HAKAN KALYONCU",
+    "unvan": "",
+    "dahili": "12-01"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "BATUHAN DALDAL",
+    "unvan": "",
+    "dahili": "12-06"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "TAMER DURAN",
+    "unvan": "",
+    "dahili": "12-07"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "ABDULSAMET GÜL",
+    "unvan": "",
+    "dahili": "12-08"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "VİLDAN NEBİOĞLU KOÇ",
+    "unvan": "",
+    "dahili": "12-09"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "MAKSUT BİLAL KUŞU",
+    "unvan": "",
+    "dahili": "12-10"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "AHMET YÜRÜK",
+    "unvan": "",
+    "dahili": "12-11"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "YUNUS EMRE KARAKAŞ",
+    "unvan": "",
+    "dahili": "12-12"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "ERHAN BAĞ",
+    "unvan": "",
+    "dahili": "12-13"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "MUHAMMED UÇUM",
+    "unvan": "",
+    "dahili": "12-14"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "MUAMMER TÜYSÜZ",
+    "unvan": "",
+    "dahili": "12-15"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "ONURCAN UÇAN",
+    "unvan": "",
+    "dahili": "12-16"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "FATİH BARUT",
+    "unvan": "",
+    "dahili": "12-17"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "ABDULLAH KAYA",
+    "unvan": "",
+    "dahili": "12-18"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "NECATİ DEDE",
+    "unvan": "",
+    "dahili": "12-19"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "ZEYNEP KAHRAMAN",
+    "unvan": "Müracaat",
+    "dahili": "12-20"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "GAMZE NUR YILMAZ",
+    "unvan": "Müracaat",
+    "dahili": "12-21"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "SEMRA ATICI",
+    "unvan": "Müracaat",
+    "dahili": "12-22"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "SEBAHATTİN KÜÇÜK",
+    "unvan": "",
+    "dahili": "12-23"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "YALÇIN ŞAHİN",
+    "unvan": "",
+    "dahili": "12-24"
+  },
+  {
+    "birim": "Ruhsat ve Denetim Müdürü",
+    "isim": "İSA ERCAN",
+    "unvan": "",
+    "dahili": "12-25"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "EVREN ORAL",
+    "unvan": "MÜDÜR",
+    "dahili": "13-00"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "ADNAN ÇİL",
+    "unvan": "Şef",
+    "dahili": "13-01"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "ALPER ÖNDER",
+    "unvan": "Şef",
+    "dahili": "13-02"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "HALİL İBRAHİM YAZICI",
+    "unvan": "",
+    "dahili": "13-06"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "YUNUS TATAR",
+    "unvan": "",
+    "dahili": "13-06"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "YUSUF BAYRAK",
+    "unvan": "",
+    "dahili": "13-06"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "FİLİZ ÇALIŞKAN",
+    "unvan": "",
+    "dahili": "13-07"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "ÖZLEM GÜRBÜZ",
+    "unvan": "",
+    "dahili": "13-07"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "ALİ OSMAN DEMİTAŞ",
+    "unvan": "",
+    "dahili": "13-08"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "CANSU ÖZÇİFTCİ",
+    "unvan": "",
+    "dahili": "13-09"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "HÜLYA MERT",
+    "unvan": "",
+    "dahili": "13-09"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "ABDULHAKİM İLYAS AYDIN",
+    "unvan": "",
+    "dahili": "13-10"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "TEVFİK LEVENT PİŞKİN",
+    "unvan": "",
+    "dahili": "13-11"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "İBRAHİM KALUÇ",
+    "unvan": "",
+    "dahili": "13-12"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "CEVAT LAÇİN",
+    "unvan": "",
+    "dahili": "13-13"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "SITKI AZAP",
+    "unvan": "Ozalithane",
+    "dahili": "13-14"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "TUĞBA BAYRAKTAR",
+    "unvan": "Raportör",
+    "dahili": "13-15"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "HÜSEYİN KELEŞ",
+    "unvan": "Raportör",
+    "dahili": "13-16"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "YASEMİN BÖLÜKBAŞI",
+    "unvan": "Kalem / Tahsis",
+    "dahili": "13-17"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "NAZ AKYOL",
+    "unvan": "Kalem",
+    "dahili": "13-18"
+  },
+  {
+    "birim": "Plan ve Proje Müdürlüğü",
+    "isim": "NAZMİYE ÇETİNER",
+    "unvan": "Kalem",
+    "dahili": "13-19"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "ÖZTÜRK ASLAN",
+    "unvan": "MÜDÜR",
+    "dahili": "21-00"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "UMUT EFENDİOĞLU",
+    "unvan": "Üst Yapı Şefi",
+    "dahili": "21-01"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "MESUT MUSTAFA ÖZCAN",
+    "unvan": "Etüt Proje Şefi",
+    "dahili": "21-02"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "İBRAHİM CAN",
+    "unvan": "Kesin Hesap Şefi",
+    "dahili": "21-03"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "SERKAN AKBAŞ",
+    "unvan": "Kalem Şefi",
+    "dahili": "21-04"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "MUHAMMED EMİN UÇAK",
+    "unvan": "Üst Yapı",
+    "dahili": "21-08"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "OSMAN YALÇIN",
+    "unvan": "Üst Yapı",
+    "dahili": "21-09"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "GÖKHAN ERTUĞRUL",
+    "unvan": "Üst Yapı",
+    "dahili": "21-10"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "NAZMİ ALTUNTAŞ",
+    "unvan": "Üst Yapı",
+    "dahili": "21-11"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "HÜSEYİN BAKLAÇ",
+    "unvan": "Üst Yapı",
+    "dahili": "21-12"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "AYTEN SÖNMEZ",
+    "unvan": "Üst Yapı",
+    "dahili": "21-13"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "NAZIM KILINÇARSLAN",
+    "unvan": "Üst Yapı",
+    "dahili": "21-14"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "NURAY DOĞAN POLAT",
+    "unvan": "Üst Yapı",
+    "dahili": "21-15"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "KEMAL DEMİR",
+    "unvan": "Üst Yapı",
+    "dahili": "21-16"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "BİROL TIĞ  -  SALİH ERASLAN",
+    "unvan": "Üst Yapı",
+    "dahili": "21-17"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "SAVAŞ ÖKTEM",
+    "unvan": "Üst Yapı",
+    "dahili": "21-18"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "TALİP YÜCEL - MEVLÜT SAMET UĞUZ",
+    "unvan": "Üst Yapı",
+    "dahili": "21-19"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "EVRİM BATMAZ",
+    "unvan": "Üst Yapı",
+    "dahili": "21-20"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "FADİME KAHRAMAN",
+    "unvan": "Etüt Proje",
+    "dahili": "21-21"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "M. EMİN GÜLBAHAR",
+    "unvan": "Etüt Proje",
+    "dahili": "21-22"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "M.RAŞİT ÇELİK",
+    "unvan": "Etüt Proje",
+    "dahili": "21-23"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "MELİH MERVAN ÇALIŞ",
+    "unvan": "Etüt Proje",
+    "dahili": "21-24"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "BELKIS YANAR",
+    "unvan": "Etüt Proje",
+    "dahili": "21-25"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "EMEL EYLEM AVŞAR",
+    "unvan": "Etüt Proje",
+    "dahili": "21-26"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "FİRDEVS ASLIHAN YERLİKAYA",
+    "unvan": "Etüt Proje",
+    "dahili": "21-27"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "NURSENA DİNÇER",
+    "unvan": "Etüt Proje",
+    "dahili": "21-28"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "MUHAMMET EMRE ATALAY",
+    "unvan": "Kesin Hesap",
+    "dahili": "21-29"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "MUSTAFA FURKAN YILDIRIM",
+    "unvan": "Kesin Hesap",
+    "dahili": "21-30"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "EMRE DİLMAÇ",
+    "unvan": "Kalem",
+    "dahili": "21-31"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "M.AHMET SEÇUK - RAMAZAN ASKER",
+    "unvan": "Kalem",
+    "dahili": "21-32"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "NİHAT TULACI",
+    "unvan": "Kalem",
+    "dahili": "21-33"
+  },
+  {
+    "birim": "Fen İşleri Müdürlüğü",
+    "isim": "FİKRET KABAN",
+    "unvan": "Kalem",
+    "dahili": "21-34"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "RIFAT KAHRAMAN",
+    "unvan": "MÜDÜR",
+    "dahili": "22-00"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "ALİ OSMAN ASMALI",
+    "unvan": "Şef",
+    "dahili": "22-01"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "CÜNEYİT YİĞİT",
+    "unvan": "Şef",
+    "dahili": "22-02"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "SELAHATTİN UYAR",
+    "unvan": "Şef",
+    "dahili": "22-03"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "FARUK ALPTEKİN",
+    "unvan": "Şef",
+    "dahili": "22-04"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "BİLAL DURSUN",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-10"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "MUSTAFA YILDIZ",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-11"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "ABDULLAH İSAK",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-12"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "M. ŞAMİL KARAHASAN/YASİN HARMAN",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-13"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "YAKUP ÇETİNDAĞ",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-14"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "FATİH AKTAŞ",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-15"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "AYDIN KORKMAZ",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-16"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "CİHAT SAĞLAM",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-17"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "NEŞAT DEMİRCAN",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-18"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "MAHSUN İYİSAN",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-19"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "EMRE GÜLER",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-20"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "SALİH AKVERDİ",
+    "unvan": "Alt Yapı Şefliği",
+    "dahili": "22-21"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "SEYDULLAH YUYUCU",
+    "unvan": "Kesin Hesap Şefliği",
+    "dahili": "22-22"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "ERKAN ERASLAN",
+    "unvan": "Apk Şefliği",
+    "dahili": "22-32"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "HASAN KİRAZ",
+    "unvan": "Apk Şefliği",
+    "dahili": "22-33"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "YASİN GÜNEŞ",
+    "unvan": "Apk Şefliği",
+    "dahili": "22-34"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "İSMAİL NAS",
+    "unvan": "Apk Şefliği",
+    "dahili": "22-35"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "ERSAN GÜLEN",
+    "unvan": "Apk Şefliği",
+    "dahili": "22-36"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "TÜLAY YILMAZ",
+    "unvan": "Kalem",
+    "dahili": "22-42"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "FATİH AKBABA",
+    "unvan": "Kalem",
+    "dahili": "22-43"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "HAKAN COŞKUN",
+    "unvan": "Kalem",
+    "dahili": "22-44"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "YOL BAKIM SANTRAL ",
+    "unvan": "",
+    "dahili": "500"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "İSMAİL SARAÇ",
+    "unvan": "",
+    "dahili": "502"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "YOL BAKIM BAŞŞOFÖRLÜK",
+    "unvan": "",
+    "dahili": "507"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "CEMİL KILICARSLAN ",
+    "unvan": "",
+    "dahili": "508"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "MEHMET TOPÇU",
+    "unvan": "",
+    "dahili": "510"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "BİLAL ERTÜRK",
+    "unvan": "",
+    "dahili": "514"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "RIDVAN AKSAKAL  ",
+    "unvan": "",
+    "dahili": "521"
+  },
+  {
+    "birim": "Ulaşım Müdürlüğü",
+    "isim": "SOSYAL TESİSLER GÜVENLİK",
+    "unvan": "",
+    "dahili": "536"
+  },
+  {
+    "birim": "İklim Değişikliği ve Sıfır Atık Müdürlüğü",
+    "isim": "MESUT ÖZDEN",
+    "unvan": "MÜDÜR",
+    "dahili": "23-00"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "CAHİT KOÇ",
+    "unvan": "",
+    "dahili": "23-01"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "SELÇUK TANIŞ",
+    "unvan": "",
+    "dahili": "23-02"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "KAZIM İNAN",
+    "unvan": "",
+    "dahili": "23-03"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "BETÜL YELKENCİ",
+    "unvan": "",
+    "dahili": "23-06"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "FATİH DEMİR",
+    "unvan": "",
+    "dahili": "23-07"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "SALİH BENGİSU",
+    "unvan": "",
+    "dahili": "23-08"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "YUSUF TARHAN",
+    "unvan": "",
+    "dahili": "23-09"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "FUAT PAŞA TUNCAY",
+    "unvan": "",
+    "dahili": "23-10"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "ESİLA KOCABOĞA",
+    "unvan": "",
+    "dahili": "23-11"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "MAHMUT ÖLMEZ",
+    "unvan": "",
+    "dahili": "23-12"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "HASAN BİLGÜCÜ",
+    "unvan": "",
+    "dahili": "23-13"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "ŞEYMA NUR TAK",
+    "unvan": "",
+    "dahili": "23-14"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "MENŞURE DENİZ TEK ",
+    "unvan": "",
+    "dahili": "23-15"
+  },
+  {
+    "birim": "İklim Değişikliği Müdürlüğü",
+    "isim": "SEMANUR ERGEN",
+    "unvan": "",
+    "dahili": "23-16"
+  },
+  {
+    "birim": "",
+    "isim": "KAZIM İNAN ",
+    "unvan": "Temizlik İşleri Müdürlüğü",
+    "dahili": "382"
+  },
+  {
+    "birim": "",
+    "isim": "EMRAH EKMEKÇİ ",
+    "unvan": "Temizlik İşleri Müdürlüğü",
+    "dahili": "389"
+  },
+  {
+    "birim": "",
+    "isim": "SİNAN KALELİ  ",
+    "unvan": "Temizlik İşleri Müdürlüğü",
+    "dahili": "390"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "VOLKAN KOÇ",
+    "unvan": "MÜDÜR",
+    "dahili": "24-00"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "YAKUP ARSLAN",
+    "unvan": "",
+    "dahili": "24-01"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "BAYRAM ALTUNBAŞ",
+    "unvan": "",
+    "dahili": "24-02"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "MUSA SEVEN",
+    "unvan": "",
+    "dahili": "24-06"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "ÖMER FARUK OCAK",
+    "unvan": "",
+    "dahili": "24-07"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "ŞAKİR GÖKÇE",
+    "unvan": "",
+    "dahili": "24-08"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "AYHAN AYDOĞDU",
+    "unvan": "",
+    "dahili": "24-09"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "EMİNE TOMBAŞ",
+    "unvan": "",
+    "dahili": "24-10"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "HÜSEYİN SÖĞÜT",
+    "unvan": "",
+    "dahili": "24-11"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "RUKİYE CANATA SEVİNÇ",
+    "unvan": "",
+    "dahili": "24-12"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "SİNAN ALTINTAŞ",
+    "unvan": "",
+    "dahili": "24-13"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "ÖMER DİKİLİTAŞ",
+    "unvan": "",
+    "dahili": "24-14"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "MUHAMMET ÖZTÜRK",
+    "unvan": "",
+    "dahili": "24-15"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "YILDIZ KEŞVELİOĞLU",
+    "unvan": "",
+    "dahili": "24-16"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "ÜZEYİT EMRULLAH TOLGAR",
+    "unvan": "",
+    "dahili": "24-17"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "İLKNUR ÇUL",
+    "unvan": "",
+    "dahili": "24-18"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "ZEYNEP ŞEKER",
+    "unvan": "",
+    "dahili": "24-19"
+  },
+  {
+    "birim": "Park ve Bahçeler Müdürlüğü",
+    "isim": "ŞENOL ŞAHİN",
+    "unvan": "",
+    "dahili": "24-20"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "NURİ ÇAKAL",
+    "unvan": "MÜDÜR",
+    "dahili": "25-00"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "BAYRAM METEHAN AĞCA",
+    "unvan": "",
+    "dahili": "25-01"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ESRA ÖNDER AKKUŞ",
+    "unvan": "",
+    "dahili": "25-02"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "SEVGİYE SÖNMEZ ÖZDEMİ",
+    "unvan": "",
+    "dahili": "25-03"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "YUSUF KARA",
+    "unvan": "",
+    "dahili": "25-04"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "M. HARUN SÖNMEZLER",
+    "unvan": "",
+    "dahili": "25-09"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "MEHMET TAŞDELEN",
+    "unvan": "",
+    "dahili": "25-10"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "EBUBEKİR BAŞ",
+    "unvan": "",
+    "dahili": "25-11"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "FARUK DOĞAN",
+    "unvan": "",
+    "dahili": "25-12"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ALPAY TUNCAY",
+    "unvan": "",
+    "dahili": "25-13"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "FATMA KARACA",
+    "unvan": "",
+    "dahili": "25-14"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "FURKAN KEFELİOĞLU",
+    "unvan": "",
+    "dahili": "25-15"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "NURTEN OCAKÇI",
+    "unvan": "",
+    "dahili": "25-16"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ABDURRAHMAN KAYA",
+    "unvan": "",
+    "dahili": "25-17"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "PINAR DURSUN KAYA",
+    "unvan": "",
+    "dahili": "25-19"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "AŞKIN NUR ARAS",
+    "unvan": "",
+    "dahili": "25-20"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ECE NARİN",
+    "unvan": "",
+    "dahili": "25-21"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ENİS TUNA YENER",
+    "unvan": "",
+    "dahili": "25-22"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "BİLGE GAZEL",
+    "unvan": "",
+    "dahili": "25-23"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "FETULLAH ÇAĞRICI",
+    "unvan": "",
+    "dahili": "25-24"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "SENA DİLARA KEFELİOĞLU",
+    "unvan": "",
+    "dahili": "25-25"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "SONGÜL KAPLAN",
+    "unvan": "",
+    "dahili": "25-26"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "NEBİYE ASAR",
+    "unvan": "",
+    "dahili": "25-27"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "MEHMET BOĞATEKİN",
+    "unvan": "",
+    "dahili": "25-28"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ALEYNA ALTOP",
+    "unvan": "",
+    "dahili": "25-29"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "BİLAL UZUN",
+    "unvan": "",
+    "dahili": "25-30"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "MURAT YETERSİZ",
+    "unvan": "",
+    "dahili": "25-31"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "MUHAMMED EBUBEKİR BALKANLIOĞLU/ALAEDDİN TOKAY",
+    "unvan": "",
+    "dahili": "25-32"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "YÜCEL CİVELEK/MEHMET MURAT",
+    "unvan": "",
+    "dahili": "25-33"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "NESLİHAN AĞAÇ",
+    "unvan": "",
+    "dahili": "25-34"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "BEKİR AKINCI",
+    "unvan": "",
+    "dahili": "25-35"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "AYŞE KABAY",
+    "unvan": "",
+    "dahili": "25-36"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ERHAN BAHAT",
+    "unvan": "",
+    "dahili": "25-37"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "YENİ PERSONEL REVİZE",
+    "unvan": "",
+    "dahili": "25-38"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "HALİL İBRAHİM DALOĞLU",
+    "unvan": "",
+    "dahili": "25-39"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ÜMRAN UMUR",
+    "unvan": "",
+    "dahili": "25-44"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "NURCAN ERBAŞ",
+    "unvan": "",
+    "dahili": "25-45"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "ALİ PEKER",
+    "unvan": "",
+    "dahili": "25-46"
+  },
+  {
+    "birim": "Kentsel Tasarım Müdürlüğü",
+    "isim": "KENTSEL KALEM",
+    "unvan": "",
+    "dahili": "25-47"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "CEMALETTİN ÇELİK",
+    "unvan": "MÜDÜR",
+    "dahili": "32-00"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "HAKAN AYGÜN",
+    "unvan": "",
+    "dahili": "32-01"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "HALİT ŞENGEZ",
+    "unvan": "",
+    "dahili": "32-02"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "SELMAN BAYUK",
+    "unvan": "",
+    "dahili": "32-03"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "TUNCAY SÖNMEZ",
+    "unvan": "",
+    "dahili": "32-04"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "MEHMET BOZKURT",
+    "unvan": "",
+    "dahili": "32-05"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "EMRE YÜKSEL",
+    "unvan": "",
+    "dahili": "32-10"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "AHMET MELİH ÇETİN",
+    "unvan": "",
+    "dahili": "32-11"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "ESRA YILDIZ",
+    "unvan": "",
+    "dahili": "32-12"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "HATİCE ERDOĞDU",
+    "unvan": "",
+    "dahili": "32-13"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "SÜMEYYE SAYAR ÖZER",
+    "unvan": "",
+    "dahili": "32-14"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "MEHMET YERLİ",
+    "unvan": "",
+    "dahili": "32-15"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "LEYLA YILDIZ",
+    "unvan": "",
+    "dahili": "32-16"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "REYHAN YALANIZ",
+    "unvan": "",
+    "dahili": "32-17"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "YILDIZTEPE KREŞ",
+    "unvan": "",
+    "dahili": "232"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "RAMAZAN KANTARCI ",
+    "unvan": "Stk Birimi",
+    "dahili": "245"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "DEMİRKAPI BİLGİ EVİ",
+    "unvan": "",
+    "dahili": "257"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "METEHAN AYKUTALP  ",
+    "unvan": "Demirkapı Bilgi Evi",
+    "dahili": "259"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "GÖZTEPE BİLGİ EVİ",
+    "unvan": "",
+    "dahili": "297"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "HASAN NAİL CANAT DANIŞMA",
+    "unvan": "",
+    "dahili": "300"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "YAVUZ SELİM KREŞ",
+    "unvan": "",
+    "dahili": "348"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "YASEMİN DEMİRCİ",
+    "unvan": "Mehmet Akif Ersoy Kültür Merkezi",
+    "dahili": "356"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "MEHMET AKİF ERSOY KÜLTÜR MERKEZİ GÜVENLİK",
+    "unvan": "",
+    "dahili": "358"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "MEHMET AKİF ERSOY KÜLTÜR MERKEZİ BİLGİ EVİ",
+    "unvan": "",
+    "dahili": "359"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "YENİGÜN BİLGİ EVİ",
+    "unvan": "",
+    "dahili": "476"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "DEMİRKAPI ETÜD MERKEZİ",
+    "unvan": "",
+    "dahili": "587"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "YENİMAHALLE BAĞ YUVA YÖNETİM",
+    "unvan": "",
+    "dahili": "595"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "YENİMAHALLE BAĞ YUVA DANIŞMA",
+    "unvan": "",
+    "dahili": "596"
+  },
+  {
+    "birim": "Kültür Müdürlüğü",
+    "isim": "YAVUZ SELİM KREŞ DANIŞMA",
+    "unvan": "",
+    "dahili": "668"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "YAVUZ SULTAN SELİM ÇİÇEK",
+    "unvan": "MÜDÜR",
+    "dahili": "33-00"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "CEYDA NUR SUBAŞI",
+    "unvan": "Avukat",
+    "dahili": "33-01"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "FATMA ZEHRA PACCİ",
+    "unvan": "Avukat",
+    "dahili": "33-02"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "ARİF GÜNER",
+    "unvan": "Avukat",
+    "dahili": "33-03"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "BUGRA OZUBEK",
+    "unvan": "Avukat",
+    "dahili": "33-04"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "BÜŞRA ARSLAN",
+    "unvan": "Avukat",
+    "dahili": "33-05"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "YUSUF MAHMUT ULUSOY",
+    "unvan": "Avukat",
+    "dahili": "33-06"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "ŞEVVAL BAL",
+    "unvan": "Avukat",
+    "dahili": "33-07"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "MAHMUT ASIM DÜZDAĞ",
+    "unvan": "Avukat",
+    "dahili": "33-08"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "AHMET YASİN BELET",
+    "unvan": "Kalem",
+    "dahili": "33-13"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "HASAN YÜCEL",
+    "unvan": "Kalem",
+    "dahili": "33-14"
+  },
+  {
+    "birim": "Hukuk İşleri Müdürlüğü",
+    "isim": "AHMET ACAR",
+    "unvan": "Kalem",
+    "dahili": "33-15"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "VOLKAN TAŞÇI",
+    "unvan": "MÜDÜR",
+    "dahili": "34-03"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "MESUT TURAN",
+    "unvan": "Şef",
+    "dahili": "34-05"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "FATİH ÖZTÜRK",
+    "unvan": "",
+    "dahili": "34-14"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "FATMA ZEHRA GEZMİŞ",
+    "unvan": "",
+    "dahili": "34-15"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "ABDULLAH YILDIRAN ",
+    "unvan": "",
+    "dahili": "34-16"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "MERVE AKSAKAL",
+    "unvan": "",
+    "dahili": "34-17"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "MUHAMMET TARIK YILMAZ",
+    "unvan": "",
+    "dahili": "34-18"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "KÜBRANUR GÖDEK",
+    "unvan": "",
+    "dahili": "34-11"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "SÜLEYMAN KÜPDİLLİ",
+    "unvan": "",
+    "dahili": "34-12"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "MUSTAFA BURAK UYGUN",
+    "unvan": "",
+    "dahili": "34-10"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "FURKAN TEKDEMİR",
+    "unvan": "",
+    "dahili": "34-19"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "ÖMER YILDIZ",
+    "unvan": "Ali Rdoğan Başkan Yardımcısı Asistanı",
+    "dahili": "10-04"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "MURAT TORUN",
+    "unvan": "Mehmet Şirin Başkan Yardımcısı Asistanı",
+    "dahili": "10-05"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "KADİR YILDIZ",
+    "unvan": "Ertuğrul S. Güldüler Başkan Yardımcısı Asistanı",
+    "dahili": "10-14"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "MERYEM KONUKCU",
+    "unvan": "Salih Kumbar Başkan Yardımcısı Asistanı",
+    "dahili": "10-16"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "KADER DEMİR",
+    "unvan": "Salih Kumbar Başkan Yardımcısı Asistanı",
+    "dahili": "10-17"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "OZGUR ALTINORDU",
+    "unvan": "Emre Urlu Başkan Yardımcısı Asistanı",
+    "dahili": "26-04"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "GÜLHAN PELİT SARI",
+    "unvan": "Volkan Çakmak Başkan Yardımcısı Asistanı",
+    "dahili": "26-06"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "ŞENOL ÇETİN",
+    "unvan": "Fatih Sarıaslan Başkan Yardımcısı Asistanı",
+    "dahili": "26-14"
+  },
+  {
+    "birim": "ÖzelKalem Müdürlüğü",
+    "isim": "İLKNUR CEYHAN İBİŞ",
+    "unvan": "Muharrem Erdal Başkan Yardımcısı Asistanı",
+    "dahili": "26-15"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "ÖMER FURKAN KILIÇ",
+    "unvan": "MÜDÜR",
+    "dahili": "35-00"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "ORHAN ÇÖRDÜK",
+    "unvan": "",
+    "dahili": "35-01"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "AHMET BAYRAK",
+    "unvan": "",
+    "dahili": "35-02"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "HÜMEYRA ELİBOL",
+    "unvan": "",
+    "dahili": "35-07"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "RESUL HAVUZ",
+    "unvan": "",
+    "dahili": "35-08"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "ERDİNÇ YILMAZ",
+    "unvan": "",
+    "dahili": "35-09"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "BÜRO",
+    "unvan": "",
+    "dahili": "35-10"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "ZEYNEP DEMİR",
+    "unvan": "",
+    "dahili": "35-11"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "ZEYNEP GELMEZ",
+    "unvan": "",
+    "dahili": "35-12"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "E SPOR DANIŞMA  ",
+    "unvan": "E Spor Merkezi",
+    "dahili": "274"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "GÖZTEPE SPOR SALONU DANIŞMA",
+    "unvan": "",
+    "dahili": "327"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "GÖZTEPE SPOR SALONU HAVUZ ",
+    "unvan": "",
+    "dahili": "328"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "RAHİME SAHANCI",
+    "unvan": "Gençlik Merkezi",
+    "dahili": "360"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "EĞİTİM KOORDİNATÖRÜ",
+    "unvan": "Gençlik Merkezi",
+    "dahili": "361"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "FURKAN ÇAKAR ",
+    "unvan": "Gençlik Merkezi",
+    "dahili": "364"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "YUSUF ÇAYIR ",
+    "unvan": "Gençlik Merkezi",
+    "dahili": "365"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "GENÇLİK MERKEZİ GÜVENLİK",
+    "unvan": "Gençlik Merkezi",
+    "dahili": "367"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "SEFA TANIŞ",
+    "unvan": "Gençlik Merkezi",
+    "dahili": "371"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "BARBAROS HAVUZ DANIŞMA  ",
+    "unvan": "",
+    "dahili": "396"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "YILDIZTEPE HAVUZ ",
+    "unvan": "",
+    "dahili": "541"
+  },
+  {
+    "birim": "Gençlik Spor Müdürlüğü",
+    "isim": "GÖZTEPE SPOR SALONU KÜTÜPHANE",
+    "unvan": "",
+    "dahili": "805"
+  },
+  {
+    "birim": "Rehberlik ve Teftiş Kurulu Müdürlüğü",
+    "isim": "ALİ İHSAN ÖZTÜRK",
+    "unvan": "MÜDÜR",
+    "dahili": "36-00"
+  },
+  {
+    "birim": "Rehberlik ve Teftiş Kurulu Müdürlüğü",
+    "isim": "RAKİME ÇİFTÇİ",
+    "unvan": "Müfettiş",
+    "dahili": "36-01"
+  },
+  {
+    "birim": "Rehberlik ve Teftiş Kurulu Müdürlüğü",
+    "isim": "HÜSEYİN ŞAHİN",
+    "unvan": "Müfettiş Yrd",
+    "dahili": "36-02"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "FATİH MEHMET PEŞMEN",
+    "unvan": "MÜDÜR",
+    "dahili": "38-00"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "ÖMER BEŞİNCİ",
+    "unvan": "Şef",
+    "dahili": "38-01"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "MEHMET ALİ ALDEMİR",
+    "unvan": "Şef",
+    "dahili": "38-02"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "SABRİ ÇAYCI",
+    "unvan": "Ön Mali Kontrol",
+    "dahili": "38-05"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "NİHAL TAŞ",
+    "unvan": "Muhasebe",
+    "dahili": "38-06"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "ESMA TOKMAK",
+    "unvan": "Muhasebe",
+    "dahili": "38-07"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "YAŞAR KILIÇ",
+    "unvan": "Muhasebe",
+    "dahili": "38-08"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "FERİT BAYAR",
+    "unvan": "Muhasebe",
+    "dahili": "38-09"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "SELMAN ÇAĞIRICI",
+    "unvan": "Muhasebe",
+    "dahili": "38-10"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "FIRAT KÜÇÜKALTUN",
+    "unvan": "Muhasebe",
+    "dahili": "38-11"
+  },
+  {
+    "birim": "Mali Hizmetler Müdürlüğü",
+    "isim": "İBRAHİM KUYUCU",
+    "unvan": "Kalem",
+    "dahili": "38-12"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "RAMAZAN AYGÜN",
+    "unvan": "MÜDÜR",
+    "dahili": "40-00"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "PERİHAN TAŞ SOYSAL",
+    "unvan": "Şef",
+    "dahili": "40-01"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ZÜLEYHA YAZ GÖZÜTOK",
+    "unvan": "İhale Birimi",
+    "dahili": "40-06"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ŞÜKRAN KÖSE",
+    "unvan": "İhale Birimi",
+    "dahili": "40-07"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ESRA ŞİT",
+    "unvan": "Kalem",
+    "dahili": "40-08"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "YASEMİN AKBAŞ",
+    "unvan": "Kalem",
+    "dahili": "40-09"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "MEHMET AKİF KILIÇLI",
+    "unvan": "",
+    "dahili": "40-10"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ADEM YILMAZ",
+    "unvan": "",
+    "dahili": "40-11"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "RAİKE ÇAYLAK",
+    "unvan": "",
+    "dahili": "40-12"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "NECMETTİN GÖKÇİMEN",
+    "unvan": "",
+    "dahili": "40-13"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "HAKTAN KARAMAVUŞ",
+    "unvan": "",
+    "dahili": "40-14"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "YUSUF İBRAHİM ARGUT",
+    "unvan": "",
+    "dahili": "40-15"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "TOLGA TUNALI",
+    "unvan": "",
+    "dahili": "40-16"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ERTUĞRUL BORUZA",
+    "unvan": "Şef",
+    "dahili": "37-01"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "TARIK TATLI",
+    "unvan": "Web Sitesi",
+    "dahili": "37-04"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "EMİRHAN ÖZKAN",
+    "unvan": "Sosyal Medya",
+    "dahili": "37-05"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ELVAN EZBER",
+    "unvan": "Editör",
+    "dahili": "37-06"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ABDULSAMET İLHAN\n",
+    "unvan": "Kameraman",
+    "dahili": "37-07"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "BERK KOŞAR",
+    "unvan": "Fotoğrafçı",
+    "dahili": "37-08"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ABDULLAH İÇEL",
+    "unvan": "Grafiker",
+    "dahili": "37-09"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "RABİA TURLAK\n",
+    "unvan": "Sosyal Medya",
+    "dahili": "37-10"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "İBRAHİM KARAHAN",
+    "unvan": "Metin Yazarı",
+    "dahili": "37-11"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ÖZLEM ŞAHİN",
+    "unvan": "Yönetici",
+    "dahili": "72-00"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "EMİNE GÜNGÖR",
+    "unvan": "Kadın Ve Aile Kültür Sanat Merkezi",
+    "dahili": "72-06"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ZEYNEP KIZILCI",
+    "unvan": "Kadın Ve Aile Kültür Sanat Merkezi",
+    "dahili": "72-08"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "GÜVENLİK",
+    "unvan": "Kadın Ve Aile Kültür Sanat Merkezi",
+    "dahili": "72-13"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "SEKRETERLİK",
+    "unvan": "Kadın Ve Aile Kültür Sanat Merkezi",
+    "dahili": "72-09"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "BİRCAN AKYOL",
+    "unvan": "Stk Birimi",
+    "dahili": "131"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "TUANA AYAZ",
+    "unvan": "Vefahane",
+    "dahili": "170"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "DEMET DİLEK ",
+    "unvan": "Vefahane",
+    "dahili": "171"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "HÜLYA KAMACI  ",
+    "unvan": "Stk Birimi",
+    "dahili": "181"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "RABİA ZENGİN  ",
+    "unvan": "Stk Birimi",
+    "dahili": "182"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "TEMEL UZUN  ",
+    "unvan": "Stk Birimi",
+    "dahili": "183"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "CEVDET BIYIKOĞLU  ",
+    "unvan": "Stk Birimi",
+    "dahili": "185"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "AYŞEGÜL YENİAY  ",
+    "unvan": "Stk Birimi",
+    "dahili": "186"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "SÜMEYYE GÜNEY",
+    "unvan": "Stk Birimi",
+    "dahili": "189"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "GÖNÜL BAĞI",
+    "unvan": "",
+    "dahili": "756"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ERSİSN ELBAN",
+    "unvan": "Engelliler Sarayı",
+    "dahili": "309"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "FİLİZ DOĞAN",
+    "unvan": "Engelliler Sarayı",
+    "dahili": "310"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "MURAT ÖZTÜRK",
+    "unvan": "Engelliler Sarayı",
+    "dahili": "317"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ENGELLİLER SARAYI GÜVENLİK",
+    "unvan": "Engelliler Sarayı",
+    "dahili": "321"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "ELİF KARAARSLAN ",
+    "unvan": "Engelliler Sarayı",
+    "dahili": "322"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "HATİCE AKSOY ",
+    "unvan": "Engelliler Sarayı",
+    "dahili": "329"
+  },
+  {
+    "birim": "Basın Yayın ve Halkla İlişkiler Müdürlüğü",
+    "isim": "SÜMEYRA GÜLLÜCE",
+    "unvan": "Engelliler Sarayı",
+    "dahili": "377"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "MUSTAFA ARAÇ",
+    "unvan": "MÜDÜR",
+    "dahili": "41-01"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "MÜCAHİT MUSLU",
+    "unvan": "Şef",
+    "dahili": "41-01"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "MELAHAT ALBAYIN",
+    "unvan": "Encümen Şefi",
+    "dahili": "41-02"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "AHMET POYRAZ",
+    "unvan": "Meclis Şefi",
+    "dahili": "41-03"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "ALEYNA ASLAN",
+    "unvan": "Kalem Personeli",
+    "dahili": "41-07"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "MENŞURE RUMEYSA BOSTAN",
+    "unvan": "Encümen Kalemi",
+    "dahili": "41-08"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "SİNEM GÖRÜR",
+    "unvan": "Encümen Kalemi",
+    "dahili": "41-09"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "FATİH MEN",
+    "unvan": "Dış İlişkiler Personeli",
+    "dahili": "41-14"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "FERDİ ÇAKMAK",
+    "unvan": "Dış İlişkiler Personeli",
+    "dahili": "41-15"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "GÜLDEN ÖZDEMİR",
+    "unvan": "Dış İlişkiler Personeli",
+    "dahili": "41-16"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "SEYHAN KULAÇ",
+    "unvan": "Dış İlişkiler Kalemi",
+    "dahili": "41-17"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "AHMET YILDIZ",
+    "unvan": "Genel Evrak",
+    "dahili": "41-22"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "ÖMER YILMAZ",
+    "unvan": "Genel Evrak",
+    "dahili": "41-23"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "RIDVAN TAŞ",
+    "unvan": "Genel Evrak",
+    "dahili": "41-24"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "EMRAH MACİT",
+    "unvan": "Genel Evrak",
+    "dahili": "41-25"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "KOMİSYON ODASI",
+    "unvan": "",
+    "dahili": "41-40"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "AK PARTİ GRUP ODASI",
+    "unvan": "",
+    "dahili": "41-41"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "MHP GRUP ODASI",
+    "unvan": "",
+    "dahili": "41-42"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "BBP GRUP ODASI",
+    "unvan": "",
+    "dahili": "41-43"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "CHP GRUP ODASI",
+    "unvan": "",
+    "dahili": "41-44"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "ENCÜMEN SALONU",
+    "unvan": "",
+    "dahili": "41-50"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "EMRULLAH KÜÇÜK",
+    "unvan": "Evlendirme Şefliği",
+    "dahili": "340"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "METİN YAZICI",
+    "unvan": "Evlendirme Şefliği",
+    "dahili": "341"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "HALİL İBRAHİM ALBAYRAK",
+    "unvan": "Evlendirme Şefliği",
+    "dahili": "342"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "HÜSEYİN KALE",
+    "unvan": "Evlendirme Şefliği",
+    "dahili": "343"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "MELİKE CEBECİ",
+    "unvan": "Evlendirme Şefliği",
+    "dahili": "344"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "CEMİLE SUBAŞI",
+    "unvan": "Evlendirme Şefliği",
+    "dahili": "345"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "MESUT EKER ",
+    "unvan": "Evlendirme Şefliği",
+    "dahili": "346"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "RAMAZAN DEVEER  ",
+    "unvan": "Halk Sarayı",
+    "dahili": "350"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "ERKAN BAŞ",
+    "unvan": "Halk Sarayı",
+    "dahili": "339"
+  },
+  {
+    "birim": "Yazı İşleri Müdürlüğü",
+    "isim": "HALK SARAYI DANIŞMA ",
+    "unvan": "Halk Sarayı",
+    "dahili": "337"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "MESUT GÜMÜŞ",
+    "unvan": "MÜDÜR",
+    "dahili": "42-00"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "KEMAL AYKUTALP",
+    "unvan": "Şef",
+    "dahili": "42-01"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "MUSTAFA YENİAY",
+    "unvan": "Şef( Sosyal Tesis)",
+    "dahili": "42-02"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "MERVE SAYDAM",
+    "unvan": "İhale- Doğrudan Temin",
+    "dahili": "42-07"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "ÖMER NASUHİ YAZICI",
+    "unvan": "İhale- Doğrudan Temin",
+    "dahili": "42-08"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "ÜLKÜ ARSLAN",
+    "unvan": "Muhasebe",
+    "dahili": "42-09"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "DİLEK GAYRETLİ",
+    "unvan": "Gıda Mühendisi",
+    "dahili": "42-10"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "CEREN IŞIK",
+    "unvan": "İç Mimar",
+    "dahili": "42-11"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "HATİCE BOZKURT",
+    "unvan": "Kalem",
+    "dahili": "42-12"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "MURAT ANAR",
+    "unvan": "Kalem",
+    "dahili": "42-13"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "4.KAT ÇAY OCAĞI",
+    "unvan": "",
+    "dahili": "49-49"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "3.KAT ÇAY OCAĞI",
+    "unvan": "",
+    "dahili": "39-39"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "2.KAT ÇAY OCAĞI",
+    "unvan": "",
+    "dahili": "29-29"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "1.KAT ÇAY OCAĞI",
+    "unvan": "",
+    "dahili": "19-19"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "GİRİŞ KAT ÇAY OCAĞI",
+    "unvan": "",
+    "dahili": "59-59"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "-1.KAT ÇAY OCAĞI",
+    "unvan": "",
+    "dahili": "69-69"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "ŞÖLEN BAĞ KAFE",
+    "unvan": "",
+    "dahili": "269"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "ALİYYA İZZET BEGOVİÇ SOSYAL TESİSİ",
+    "unvan": "",
+    "dahili": "271"
+  },
+  {
+    "birim": "İşletme ve İştirakler ",
+    "isim": "GENÇLİK BAĞ KAFE",
+    "unvan": "",
+    "dahili": "540"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "ABDULLAH AKTÜRKOĞLU",
+    "unvan": "MÜDÜR",
+    "dahili": "43-00"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "GÜLÜMSER HATİPOĞLU",
+    "unvan": "Memur Özlük Bürosu Şefi",
+    "dahili": "43-01"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "MESUT YAŞAR",
+    "unvan": "İşçi Özlük Bürosu Şefi",
+    "dahili": "43-02"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "NEBİYE UYANIK",
+    "unvan": "Maaş Bürosu Şefi",
+    "dahili": "43-03"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "LATİFE SEKMEN",
+    "unvan": "Memur Özlük Bürosu - Memur",
+    "dahili": "43-07"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "ABDURRAHMAN HACIMUSTAFAOĞLU",
+    "unvan": "Memur Özlük Bürosu - Memur",
+    "dahili": "43-08"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "TOLGAHAN KİBAR",
+    "unvan": "Memur Özlük Bürosu - Memur",
+    "dahili": "43-09"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "İNCİ ŞAHİN",
+    "unvan": "Maaş Bürosu - Memur",
+    "dahili": "43-10"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "NECİP TONBUL",
+    "unvan": "Maaş Bürosu Personeli",
+    "dahili": "43-11"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "EBRU AYDIN",
+    "unvan": "Eğitim Bürosu Sorumlusu",
+    "dahili": "43-12"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "AYŞE KAYA",
+    "unvan": "Eğitim Bürosu Personeli",
+    "dahili": "43-13"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "BÜŞRA GÖK",
+    "unvan": "Eğitim Bürosu Personeli",
+    "dahili": "43-14"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "HANDE TÜMSA",
+    "unvan": "Eğitim Bürosu - Klinik Psikolog",
+    "dahili": "43-15"
+  },
+  {
+    "birim": "İnsan Kaynakları ve Eğitim Müdürlüğü",
+    "isim": "MUHAMMED ŞERİF DEMİR",
+    "unvan": "Eğitim Bürosu Personeli",
+    "dahili": "43-17"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "SERBAY ÖZTÜRK",
+    "unvan": "MÜDÜR",
+    "dahili": "4400"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "TİMUR ŞAHİN",
+    "unvan": "Şef",
+    "dahili": "4401"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "AHMET AKGÜL",
+    "unvan": "Şef",
+    "dahili": "4402"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "MERYEM ÖZİPEK",
+    "unvan": "Sosyolog",
+    "dahili": "4406"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "FURKAN DURSUN",
+    "unvan": "Endüstri Mühendisi",
+    "dahili": "4407"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "HAYRİYE EROL",
+    "unvan": "Endüstri Mühendisi",
+    "dahili": "4408"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "UĞUR YALIN",
+    "unvan": "Memur",
+    "dahili": "4409"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "ÜMİT AYDIN",
+    "unvan": "İletişim Uzmanı",
+    "dahili": "4410"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "EDANUR DURDU",
+    "unvan": "İşletme Mühendisi",
+    "dahili": "4411"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "MUHAMMED MUSTAFA ŞENGÜL",
+    "unvan": "Tasarımcı",
+    "dahili": "4412"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "ELİF YILMAZ TONBUL",
+    "unvan": "İstatistikçi",
+    "dahili": "4413"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "BÜŞRA ÇAĞIRICI",
+    "unvan": "İdari Ve Mali Büro",
+    "dahili": "4414"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "ÇAĞLA GÜR",
+    "unvan": "Proje Geliştirme Ofisi",
+    "dahili": "4415"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "SÜMEYYE HACIMUSTAFAOĞLU",
+    "unvan": "Proje Geliştirme Ofisi",
+    "dahili": "4416"
+  },
+  {
+    "birim": "Strateji Geliştirme Müdürlüğü",
+    "isim": "HİLAL ACAR KAMALI",
+    "unvan": "Proje Geliştirme Ofisi",
+    "dahili": "4417"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "YUNUS EMRE YILDIZ",
+    "unvan": "MÜDÜR",
+    "dahili": "50-00"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "FEHMİ AY",
+    "unvan": "Şef (İdari İşler)",
+    "dahili": "50-01"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "YALÇIN YAZICI",
+    "unvan": "Şef (İdari Büro/ Muhtarlıklar)",
+    "dahili": "50-02"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "BİRKAL ASLAN",
+    "unvan": "Şef (Teknik İşler / Bakım Onarım)",
+    "dahili": "50-03"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "DÖNE NAYIR",
+    "unvan": "İdari Büro (Dökümantasyon Ve Kayıt İşlemleri)",
+    "dahili": "50-07"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "MEHMET AKİF YILMAZ",
+    "unvan": "Taşınır Kayıt Yetkilisi",
+    "dahili": "50-08"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "FIRAT ADAMCIL",
+    "unvan": "Teknik İşler / Bakım Onarım",
+    "dahili": "50-09"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "YUSUF YILDIZ",
+    "unvan": "Teknik İşler / Bakım Onarım",
+    "dahili": "50-10"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "ENES TURGUT",
+    "unvan": "İdari Büro (Fatura-Tahakkuk / Haberleşme )",
+    "dahili": "50-11"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "NESLİHAN IŞIK",
+    "unvan": "Kalem ",
+    "dahili": "50-12"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": " GÖKHAN KAYA",
+    "unvan": "Başşoförlük",
+    "dahili": "50-15"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": " HARUN GÜNEŞ",
+    "unvan": "Başşoförlük",
+    "dahili": "50-16"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "KİRAZLI OTOPARK GÜVENLİK",
+    "unvan": "",
+    "dahili": "566"
+  },
+  {
+    "birim": "Destek Hizmetleri Müdürlüğü",
+    "isim": "KİRAZLI OTOPARK BAŞŞOFÖRLÜK",
+    "unvan": "",
+    "dahili": "567"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "ŞULE GENÇ",
+    "unvan": "MÜDÜR",
+    "dahili": "51-00"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "ÖZER YILMAZ",
+    "unvan": "Şef",
+    "dahili": "51-01"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "NEŞE KAYA",
+    "unvan": "Büro Personeli",
+    "dahili": "51-04"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "ÖZGE KÖROĞLU",
+    "unvan": "Kalem",
+    "dahili": "51-05"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "HASAN BOSTANCI",
+    "unvan": "Kalem",
+    "dahili": "51-06"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "MAKBULE ÇELİK",
+    "unvan": "Kalem",
+    "dahili": "51-07"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "ÇİĞDEM BATTAL",
+    "unvan": "İhale Sorumlusu",
+    "dahili": "51-08"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "İRFAN BALCI",
+    "unvan": "Hekim Odası",
+    "dahili": "51-09"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "GÜLRUHSAR GÜNEŞ",
+    "unvan": "İş Sağlığı Ve Güvenliği Uzmanı",
+    "dahili": "51-10"
+  },
+  {
+    "birim": "Sağlık İşleri Müdürlüğü",
+    "isim": "DOĞAN SEMİH TOY",
+    "unvan": "Psikolog",
+    "dahili": "51-11"
+  },
+  {
+    "birim": "",
+    "isim": "MEHMET ERDEM DAMKACI  ",
+    "unvan": "Veteriner İşleri Müdürlüğü",
+    "dahili": "431"
+  },
+  {
+    "birim": "",
+    "isim": "YUSUF YILDIZ",
+    "unvan": "Veteriner İşleri Müdürlüğü",
+    "dahili": "729"
+  },
+  {
+    "birim": "",
+    "isim": "MEVLÜDE KARAÇOBAN",
+    "unvan": "Veteriner İşleri Müdürlüğü",
+    "dahili": "734"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "MURAT YILDIZ",
+    "unvan": "MÜDÜR",
+    "dahili": "52-00"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "FATİH MEHMET ÇELİK",
+    "unvan": "Şef, İhale",
+    "dahili": "52-01"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "HİLAL ÇALIŞ",
+    "unvan": "Özel Kalem-Sosyal Medya-Watsapp Başvuruları",
+    "dahili": "52-05"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "ZEYNEP CEBENAY POLAT",
+    "unvan": "Kurul Kararları-Eğitim Ödemeleri",
+    "dahili": "52-06"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "MURAT ARSLAN",
+    "unvan": "Kurul Kararları-Puantaj-Tamir-Sosyal Mar.Stok- Maaş Hakediş",
+    "dahili": "52-07"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "HALİS SÖNMEZ",
+    "unvan": "Raporlama",
+    "dahili": "52-08"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "AYŞE AL GAFUROV",
+    "unvan": "Aşevi- Yetim Giydirme",
+    "dahili": "52-09"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "DEMET DURMUŞ",
+    "unvan": "Webform Başvurular",
+    "dahili": "52-10"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "ŞEYMA YILDIRIM",
+    "unvan": "Bebek Bezi-Sosyal Market",
+    "dahili": "52-11"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "SEMANUR ÇAKIR KİRAZCI",
+    "unvan": "Ev Temizliği-Hasta Yatağı",
+    "dahili": "52-12"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "MERYEM TAKMAZ",
+    "unvan": "",
+    "dahili": "52-13"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "HİLAL ÇİFTÇİ",
+    "unvan": "Hasta Bezi - Sydv Raporlama",
+    "dahili": "52-14"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "ELİF BURGA",
+    "unvan": "Vatandaş Karşılama",
+    "dahili": "52-15"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "ŞEVVAL BAHAT",
+    "unvan": "Vatandaş Karşılama",
+    "dahili": "52-16"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "ELİF ERGÜL",
+    "unvan": "Vatandaş Karşılama",
+    "dahili": "52-17"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "BÜŞRA DOĞAN",
+    "unvan": "Vatandaş Karşılama",
+    "dahili": "52-18"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "ÇİĞDEM SEVDAR ",
+    "unvan": "Kalem",
+    "dahili": "52-19"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "RÜSTEM MENGAASLAN",
+    "unvan": "Kariyer Merkezi",
+    "dahili": "52-32"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "SELİM KILIÇ",
+    "unvan": "Kariyer Merkezi",
+    "dahili": "52-33"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "TÜRKAN DEMİR",
+    "unvan": "Kariyer Merkezi",
+    "dahili": "52-34"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "BÜŞRA TURAN",
+    "unvan": "Kariyer Merkezi",
+    "dahili": "52-35"
+  },
+  {
+    "birim": "Sosyal Hizmetler Müdürlüğü",
+    "isim": "SOSYAL MARKET  ",
+    "unvan": "",
+    "dahili": "482"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "FATİH MEHMET PEŞMEN",
+    "unvan": "MÜDÜR",
+    "dahili": "53-00"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "ERKAN ERKOÇ",
+    "unvan": "Müdür Yardımcısı",
+    "dahili": "53-01"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "SEVİM DÜNDAR",
+    "unvan": "",
+    "dahili": "53-02"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "DAVUT ULU",
+    "unvan": "",
+    "dahili": "53-03"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "ABDULLAH ELKONCA",
+    "unvan": "",
+    "dahili": "53-04"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "DİLEK KALAYCI",
+    "unvan": "",
+    "dahili": "53-05"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "KEMAL USLU",
+    "unvan": "",
+    "dahili": "53-09"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "ERCUMEN GÜNGÖR",
+    "unvan": "",
+    "dahili": "53-10"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "AHMET SARITAŞ",
+    "unvan": "",
+    "dahili": "53-11"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "VEYSEL AYDIN",
+    "unvan": "",
+    "dahili": "53-12"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "TUNAY SARP",
+    "unvan": "",
+    "dahili": "53-13"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "AYTEKİN ŞAHİN",
+    "unvan": "",
+    "dahili": "53-14"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "AYŞE NUR GÜLLÜCE ÇAKAR",
+    "unvan": "",
+    "dahili": "53-15"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "FERHAT TOSUN",
+    "unvan": "",
+    "dahili": "53-16"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "ALİ OSMAN ORAN",
+    "unvan": "",
+    "dahili": "53-17"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "FİLİZ AVCI",
+    "unvan": "Kalem",
+    "dahili": "53-18"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "HASAN AYHAN",
+    "unvan": "",
+    "dahili": "53-19"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "BURAK ERDEM",
+    "unvan": "",
+    "dahili": "53-20"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "SERCAN MARANGOZ",
+    "unvan": "",
+    "dahili": "53-21"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "MEHMET AYTAR",
+    "unvan": "",
+    "dahili": "53-22"
+  },
+  {
+    "birim": "Gelirler Müdürlüğü",
+    "isim": "SERCAN BOZKURT",
+    "unvan": "",
+    "dahili": "53-23"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "CÜNEYT YILMAZ",
+    "unvan": "MÜDÜR",
+    "dahili": "60-00"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "HAMİ SÜHA SERVER",
+    "unvan": "",
+    "dahili": "60-01"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "EMRAH GÜLER",
+    "unvan": "",
+    "dahili": "60-02"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "FARUK UMUT",
+    "unvan": "",
+    "dahili": "60-03"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "YAVUZ MERCAN",
+    "unvan": "",
+    "dahili": "60-04"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "HASAN SELİM GÜNER",
+    "unvan": "",
+    "dahili": "60-05"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "KADİR YILMAZ",
+    "unvan": "",
+    "dahili": "60-06"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "MUHAMMED SALİH AZAKLI",
+    "unvan": "",
+    "dahili": "60-07"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "BEYZA BOĞUŞ",
+    "unvan": "",
+    "dahili": "60-11"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "ABDURRAHMAN ERDEM",
+    "unvan": "",
+    "dahili": "60-12"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "EBYS DESTEK HATTI",
+    "unvan": "",
+    "dahili": "60-13"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "MUHAMMED TAHA ELKONCA",
+    "unvan": "",
+    "dahili": "60-14"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "TAYYİP YURDUNKULU",
+    "unvan": "",
+    "dahili": "60-15"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "SÜLEYMAN COŞKUN",
+    "unvan": "",
+    "dahili": "60-18"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "FURKAN YUYUCU",
+    "unvan": "",
+    "dahili": "60-19"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "FERHAT YILMAZ",
+    "unvan": "",
+    "dahili": "60-20"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "HASAN AKIN",
+    "unvan": "",
+    "dahili": "60-22"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "SÜMEYYE KARADAŞ",
+    "unvan": "Arşiv",
+    "dahili": "61-00"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "SEDA KILIÇ BOZKURT",
+    "unvan": "Arşiv",
+    "dahili": "61-01"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "MESUT DEMİR",
+    "unvan": "Arşiv",
+    "dahili": "61-02"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "MURAT CİVAN",
+    "unvan": "Arşiv",
+    "dahili": "61-03"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "EBRU YILMAZ",
+    "unvan": "Arşiv",
+    "dahili": "61-04"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "ÜMRAN ÇOBANOĞLU",
+    "unvan": "Arşiv",
+    "dahili": "61-05"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "OĞUZHAN PEKCAN",
+    "unvan": "Arşiv",
+    "dahili": "61-06"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "HAKAN ÖZTEKİN",
+    "unvan": "Bağ Kart",
+    "dahili": "61-10"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "YAREN BİLGİHAN",
+    "unvan": "Bağ Kart",
+    "dahili": "61-11"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "DEMET ÖZTÜRK",
+    "unvan": "Bağ Kart",
+    "dahili": "61-12"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "NESLİHAN SEFEROĞLU",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-00"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "MRVE TUMUR",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-01"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "CEREN OCAK AYDIN",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-02"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "NEŞE NALBANT",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-03"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "BEYZANUR ARSLAN",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-04"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "YUNUS EMRE ÇAKIR",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-05"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "GÜLTEN ÖZKAYA",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-06"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "FURKAN KACAR",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-07"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "DERYA COŞKUN",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-08"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "GİZEM ARAZ",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-09"
+  },
+  {
+    "birim": "Bilgi İşlem Müdürlüğü",
+    "isim": "YEKTA URHAN",
+    "unvan": "Başvuru Merkezi",
+    "dahili": "62-10"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "ENSAR DAĞCI",
+    "unvan": "MÜDÜR",
+    "dahili": "66-00"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "İSMAİL ÇİMEN",
+    "unvan": "Büro Amiri",
+    "dahili": "66-01"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "RECEP TÜRK",
+    "unvan": "Şef",
+    "dahili": "66-08"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "YUNUS ÜRÜN",
+    "unvan": "Pazar İşleri",
+    "dahili": "66-09"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "MELEK OVALI",
+    "unvan": "Mühürleme",
+    "dahili": "66-10"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "AHMET CANER CABOĞLU",
+    "unvan": "Dış Yazışmalar",
+    "dahili": "66-11"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "FURKAN KEŞCİ",
+    "unvan": "Ceza Zabıtları",
+    "dahili": "66-12"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "İLKER KURT",
+    "unvan": "Ayniyat Depo",
+    "dahili": "66-13"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "MUHAMMET SAYDAM",
+    "unvan": "Gelen Evrak Ve Cimer",
+    "dahili": "66-14"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "BURHANETTİN BUZCU",
+    "unvan": "Mühürleme",
+    "dahili": "66-15"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "SİNAN ŞENEL",
+    "unvan": "Mühürleme",
+    "dahili": "66-16"
+  },
+  {
+    "birim": "Zabıta Müdürlüğü",
+    "isim": "ZABITA KOMUTA MERKEZİ",
+    "unvan": "",
+    "dahili": "66-22"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "NEJDAT AKBULUT",
+    "unvan": "MÜDÜR",
+    "dahili": "70-00"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "AHMET YÜZER",
+    "unvan": "Şef",
+    "dahili": "70-01"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "YUNUS G. ÖZARSLAN",
+    "unvan": "Şef",
+    "dahili": "70-02"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "EMRULLAH A. GÖRÜR",
+    "unvan": "",
+    "dahili": "70-07"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "SERHAT SUBAŞI",
+    "unvan": "",
+    "dahili": "70-08"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "SEFA GÜNER",
+    "unvan": "Kalem",
+    "dahili": "70-09"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "MEHMET AKŞAN",
+    "unvan": "",
+    "dahili": "70-10"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "KÜBRA ALTINTAŞ",
+    "unvan": "",
+    "dahili": "70-11"
+  },
+  {
+    "birim": "Afet İşleri ve Risk Yönetimi Müdürlüğü",
+    "isim": "SİNAN BAYKUŞ",
+    "unvan": "Kalem",
+    "dahili": "70-12"
+  }
+]
