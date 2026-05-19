@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bağcılar Belediyesi Rehber Bilgileri</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f9; margin: 0; padding: 20px; }
+        .container { max-width: 1000px; margin: auto; background: white; padding: 25px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h2 { text-align: center; color: #2c3e50; margin-top: 0; text-transform: uppercase; letter-spacing: 1px; }
+        .search-box { width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 5px; box-sizing: border-box; font-size: 16px; }
+        
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th { background-color: #3498db; color: white; padding: 12px; text-align: left; font-size: 14px; }
+        td { padding: 12px; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; }
+        
+        /* Renklendirme kuralları */
+        .satir-beyaz { background-color: #ffffff; }
+        .satir-mavi { background-color: #e3f2fd !important; font-weight: 600; } /* Müdür satırı açık mavi */
+        
+        .star-btn { cursor: pointer; font-size: 18px; color: #ccc; user-select: none; transition: color 0.2s; }
+        .star-btn.active { color: #f1c40f; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Bağcılar Belediyesi Rehber Bilgileri</h2>
+    <input type="text" id="aramaGirdisi" class="search-box" placeholder="Ara (Ad, Birim veya Ünvan yazın...)">
+    
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 50px; text-align: center;">⭐</th>
+                <th style="width: 120px;">Dahili No</th>
+                <th>Ad Soyad</th>
+                <th>Birim</th>
+                <th>Ünvan</th>
+            </tr>
+        </thead>
+        <tbody id="rehberTablosu"></tbody>
+    </table>
+</div>
+
+<script>
+    let orijinalVeri = [];
+    let favoriler = JSON.parse(localStorage.getItem('rehber_favoriler')) || [];
+
+    // Veritabanından (JSON dosyasından) verileri çekiyoruz
+    fetch('rehber.json')
+        .then(res => res.json())
+        .then(data => {
+            // Dahili numaraya göre otomatik küçükten büyüğe sırala
+            orijinalVeri = data.sort((a, b) => a.dahili.localeCompare(b.dahili, 'tr'));
+            tabloyuYenile(orijinalVeri);
+        });
+
+    function tabloyuYenile(veriler) {
+        const tbody = document.getElementById('rehberTablosu');
+        tbody.innerHTML = '';
+        
+        // Önce favorileri ve normal verileri ayırıp, favorileri en üste koyuyoruz
+        const siraliList = [...veriler].sort((a, b) => {
+            const aFav = favoriler.includes(a.dahili) ? 1 : 0;
+            const bFav = favoriler.includes(b.dahili) ? 1 : 0;
+            return bFav - aFav;
+        });
+
+        siraliList.forEach(p => {
+            const isFav = favoriler.includes(p.dahili);
+            // Ünvanda MÜDÜR veya Müdür geçiyorsa mavi sınıfını ekle
+            const isMudur = p.unvan && p.unvan.toLocaleLowerCase('tr').includes('müdür');
+            const satirClas = isMudur ? 'satir-mavi' : 'satir-beyaz';
+
+            tbody.innerHTML += `
+                <tr class="${satirClas}">
+                    <td style="text-align: center;">
+                        <span class="star-btn ${isFav ? 'active' : ''}" onclick="toggleFavori('${p.dahili}')">★</span>
+                    </td>
+                    <td>${p.dahili}</td>
+                    <td>${p.isim}</td>
+                    <td>${p.birim}</td>
+                    <td>${p.unvan || ''}</td>
+                </tr>
+            `;
+        });
+    }
+
+    // Favoriye ekleme/çıkarma fonksiyonu
+    function toggleFavori(dahili) {
+        if (favoriler.includes(dahili)) {
+            favoriler = favoriler.filter(f => f !== dahili);
+        } else {
+            favoriler.push(dahili);
+        }
+        localStorage.setItem('rehber_favoriler', JSON.stringify(favoriler));
+        tabloyuYenile(filtrle());
+    }
+
+    // Arama fonksiyonu (Karakter duyarlı)
+    document.getElementById('aramaGirdisi').addEventListener('input', () => {
+        tabloyuYenile(filtrle());
+    });
+
+    function filtrle() {
+        const metin = document.getElementById('aramaGirdisi').value.toLocaleLowerCase('tr').trim();
+        if (!metin) return orijinalVeri;
+        
+        return orijinalVeri.filter(p => 
+            p.isim.toLocaleLowerCase('tr').includes(metin) ||
+            (p.birim && p.birim.toLocaleLowerCase('tr').includes(metin)) ||
+            (p.unvan && p.unvan.toLocaleLowerCase('tr').includes(metin))
+        );
+    }
+</script>
+
+</body>
+</html>
