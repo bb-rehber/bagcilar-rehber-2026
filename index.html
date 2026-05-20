@@ -3,115 +3,228 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bağcılar Belediyesi Rehber Bilgileri</title>
+    <title>Bağcılar Belediyesi - Dahili Rehber</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f9; margin: 0; padding: 20px; }
-        .container { max-width: 1000px; margin: auto; background: white; padding: 25px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        h2 { text-align: center; color: #2c3e50; margin-top: 0; text-transform: uppercase; letter-spacing: 1px; }
-        .search-box { width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 5px; box-sizing: border-box; font-size: 16px; }
-        
-        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-        th { background-color: #3498db; color: white; padding: 12px; text-align: left; font-size: 14px; }
-        td { padding: 12px; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; }
-        
-        /* Renklendirme kuralları */
-        .satir-beyaz { background-color: #ffffff; }
-        .satir-mavi { background-color: #e3f2fd !important; font-weight: 600; } /* Müdür satırı açık mavi */
-        
-        .star-btn { cursor: pointer; font-size: 18px; color: #ccc; user-select: none; transition: color 0.2s; }
-        .star-btn.active { color: #f1c40f; }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background-color: #f4f6f9;
+            color: #333;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 98%;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        h1 {
+            text-align: center;
+            color: #1e3a8a;
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 25px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .search-container {
+            position: relative;
+            width: 100%;
+            margin-bottom: 25px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 14px 45px 14px 16px;
+            font-size: 15px;
+            border: 2px solid #cbd5e1;
+            border-radius: 8px;
+            outline: none;
+            transition: all 0.2s;
+        }
+
+        .search-input:focus {
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+        }
+
+        .clear-btn {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #94a3b8;
+            color: white;
+            border: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            font-size: 12px;
+            cursor: pointer;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            line-height: 1;
+            font-weight: bold;
+        }
+
+        .clear-btn:hover {
+            background: #64748b;
+        }
+
+        .table-wrapper {
+            width: 100%;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        th, td {
+            padding: 12px 14px;
+            text-align: left;
+            border: 1px solid #cbd5e1; /* Tam kılavuz çizgileri */
+            white-space: nowrap; /* Satır taşmasını önler, tek satır yapar */
+        }
+
+        th {
+            background-color: #3b82f6;
+            color: white;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f8fafc;
+        }
+
+        tr:hover {
+            background-color: #f1f5f9;
+        }
+
+        .no-result {
+            text-align: center;
+            padding: 20px;
+            color: #64748b;
+            font-size: 15px;
+            display: none;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h2>Bağcılar Belediyesi Rehber Bilgileri</h2>
-    <input type="text" id="aramaGirdisi" class="search-box" placeholder="Ara (Ad, Birim veya Ünvan yazın...)">
+    <h1>Bağcılar Belediyesi Rehber Bilgileri</h1>
     
-    <table>
-        <thead>
-            <tr>
-                <th style="width: 50px; text-align: center;">⭐</th>
-                <th style="width: 120px;">Dahili No</th>
-                <th>Ad Soyad</th>
-                <th>Birim</th>
-                <th>Ünvan</th>
-            </tr>
-        </thead>
-        <tbody id="rehberTablosu"></tbody>
-    </table>
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-input" placeholder="Ara (Ad, Birim veya Ünvan yazın...)">
+        <button id="clearBtn" class="clear-btn">&times;</button>
+    </div>
+
+    <div class="table-wrapper">
+        <table id="rehberTable">
+            <thead>
+                <tr>
+                    <th style="width: 12%;">Dahili No</th>
+                    <th style="width: 28%;">Ad Soyad</th>
+                    <th style="width: 30%;">Birim</th>
+                    <th style="width: 30%;">Ünvan</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+                </tbody>
+        </table>
+        <div id="noResult" class="no-result">Aradığınız kriterlere uygun personel bulunamadı.</div>
+    </div>
 </div>
 
 <script>
-    let orijinalVeri = [];
-    let favoriler = JSON.parse(localStorage.getItem('rehber_favoriler')) || [];
+    let rehberVerisi = [];
 
-    // Veritabanından (JSON dosyasından) verileri çekiyoruz
+    // Veriyi Çekme
     fetch('rehber.json')
-        .then(res => res.json())
+        .then(response => response.json())
         .then(data => {
-            // Dahili numaraya göre otomatik küçükten büyüğe sırala
-            orijinalVeri = data.sort((a, b) => a.dahili.localeCompare(b.dahili, 'tr'));
-            tabloyuYenile(orijinalVeri);
-        });
+            // Herhangi bir otomatik sıralama yapmıyoruz, Excel sırasını koruyoruz.
+            rehberVerisi = data;
+            tabloyuDoldur(rehberVerisi);
+        })
+        .catch(error => console.error('Veri yüklenirken hata oluştu:', error));
 
-    function tabloyuYenile(veriler) {
-        const tbody = document.getElementById('rehberTablosu');
+    function tabloyuDoldur(data) {
+        const tbody = document.getElementById('tableBody');
+        const noResult = document.getElementById('noResult');
         tbody.innerHTML = '';
-        
-        // Önce favorileri ve normal verileri ayırıp, favorileri en üste koyuyoruz
-        const siraliList = [...veriler].sort((a, b) => {
-            const aFav = favoriler.includes(a.dahili) ? 1 : 0;
-            const bFav = favoriler.includes(b.dahili) ? 1 : 0;
-            return bFav - aFav;
-        });
 
-        siraliList.forEach(p => {
-            const isFav = favoriler.includes(p.dahili);
-            // Ünvanda MÜDÜR veya Müdür geçiyorsa mavi sınıfını ekle
-            const isMudur = p.unvan && p.unvan.toLocaleLowerCase('tr').includes('müdür');
-            const satirClas = isMudur ? 'satir-mavi' : 'satir-beyaz';
-
-            tbody.innerHTML += `
-                <tr class="${satirClas}">
-                    <td style="text-align: center;">
-                        <span class="star-btn ${isFav ? 'active' : ''}" onclick="toggleFavori('${p.dahili}')">★</span>
-                    </td>
-                    <td>${p.dahili}</td>
-                    <td>${p.isim}</td>
-                    <td>${p.birim}</td>
-                    <td>${p.unvan || ''}</td>
-                </tr>
-            `;
-        });
-    }
-
-    // Favoriye ekleme/çıkarma fonksiyonu
-    function toggleFavori(dahili) {
-        if (favoriler.includes(dahili)) {
-            favoriler = favoriler.filter(f => f !== dahili);
+        if (data.length === 0) {
+            noResult.style.display = 'block';
+            return;
         } else {
-            favoriler.push(dahili);
+            noResult.style.display = 'none';
         }
-        localStorage.setItem('rehber_favoriler', JSON.stringify(favoriler));
-        tabloyuYenile(filtrle());
+
+        data.forEach(item => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td style="font-weight: 600; color: #1e3a8a;">${item.dahili || ''}</td>
+                <td style="font-weight: 500;">${item.isim || ''}</td>
+                <td>${item.birim || ''}</td>
+                <td>${item.unvan || ''}</td>
+            `;
+            tbody.appendChild(row);
+        });
     }
 
-    // Arama fonksiyonu (Karakter duyarlı)
-    document.getElementById('aramaGirdisi').addEventListener('input', () => {
-        tabloyuYenile(filtrle());
+    // Arama Fonksiyonu
+    const searchInput = document.getElementById('searchInput');
+    const clearBtn = document.getElementById('clearBtn');
+
+    searchInput.addEventListener('input', function() {
+        const katsayi = this.value.toLowerCase().trim();
+        
+        // Temizleme butonunun görünürlüğü
+        if (katsayi.length > 0) {
+            clearBtn.style.display = 'flex';
+        } else {
+            clearBtn.style.display = 'none';
+        }
+
+        const filtreliData = rehberVerisi.filter(item => {
+            const isim = (item.isim || '').toLowerCase();
+            const birim = (item.birim || '').toLowerCase();
+            const unvan = (item.unvan || '').toLowerCase();
+            const dahili = (item.dahili || '').toLowerCase();
+
+            return isim.includes(katsayi) || birim.includes(katsayi) || unvan.includes(katsayi) || dahili.includes(katsayi);
+        });
+
+        tabloyuDoldur(filtreliData);
     });
 
-    function filtrle() {
-        const metin = document.getElementById('aramaGirdisi').value.toLocaleLowerCase('tr').trim();
-        if (!metin) return orijinalVeri;
-        
-        return orijinalVeri.filter(p => 
-            p.isim.toLocaleLowerCase('tr').includes(metin) ||
-            (p.birim && p.birim.toLocaleLowerCase('tr').includes(metin)) ||
-            (p.unvan && p.unvan.toLocaleLowerCase('tr').includes(metin))
-        );
-    }
+    // X Butonuna Basınca Temizleme
+    clearBtn.addEventListener('click', function() {
+        searchInput.value = '';
+        clearBtn.style.display = 'none';
+        tabloyuDoldur(rehberVerisi);
+        searchInput.focus();
+    });
 </script>
 
 </body>
